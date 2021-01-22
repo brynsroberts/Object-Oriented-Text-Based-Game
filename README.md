@@ -1,4 +1,4 @@
-# Text Based Game
+# Object Oriented Text Based Game
 
 ## Authors
 
@@ -7,6 +7,10 @@
 ## Objective
 
 This project was based around designing and implementing a one-player, text-based game where the player can move through spaces to get items and accomplish goals.  The game uses a Space class, which represents the space the player can be in. The Space class is an abstract class that has pure virtual functions.  Inside the Space class, there are Space pointers to different locations available to interact with in the game.  The game has 4 derived classes that are derived from the Space class, each representing a different type of Space, and have a special action for the player to interact with. 
+
+## To Run
+
+Change to src directory.  In command line type "make".  Executable will be named main.  To run type "./main".
 
 ## Spaces                              
 
