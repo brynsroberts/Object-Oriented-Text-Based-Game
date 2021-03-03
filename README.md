@@ -1,4 +1,4 @@
-# Object Oriented Text Based Game
+# Pokemon Command Line Game
 
 ## Authors
 
